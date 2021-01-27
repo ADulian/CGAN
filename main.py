@@ -29,10 +29,6 @@ if __name__ == '__main__':
     img_shape = [1, img_size, img_size]
     n_classes = 10
 
-    print(img_shape)
-    print(*img_shape)
-    print(np.prod(img_shape))
-    sys.exit()
     lr = 2e-4
     gen_z_dim = 100
 
