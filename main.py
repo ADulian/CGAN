@@ -41,6 +41,3 @@ if __name__ == '__main__':
                  epochs=50,lr=lr, gen_z_dim=gen_z_dim)
     model.fit()
 
-    # Single Sample
-    # model.load_model('cvae_state.pt')
-    # sample = model.sample(idx=5)
