@@ -1,2 +1,2 @@
 # CGAN
-Conditional Generative Adversarial Network
+Conditional Generative Adversarial Network 
